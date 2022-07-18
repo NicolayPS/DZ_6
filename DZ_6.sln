@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "№1 Найти самое длинное слово в строке", "№1\№1 Найти самое длинное слово в строке.csproj", "{D4263E65-5EB0-4EB9-B711-24E80BC5BC53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "№2 является ли строка палиндромом без учёта пробелов и регистра", "№2\№2 является ли строка палиндромом без учёта пробелов и регистра.csproj", "{005B15DD-ABCB-4FB8-B7B0-DCA308956AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "№3", "№3\№3.csproj", "{733F275A-3F43-48A4-84BB-85416332EB26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4263E65-5EB0-4EB9-B711-24E80BC5BC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4263E65-5EB0-4EB9-B711-24E80BC5BC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4263E65-5EB0-4EB9-B711-24E80BC5BC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4263E65-5EB0-4EB9-B711-24E80BC5BC53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{005B15DD-ABCB-4FB8-B7B0-DCA308956AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005B15DD-ABCB-4FB8-B7B0-DCA308956AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005B15DD-ABCB-4FB8-B7B0-DCA308956AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005B15DD-ABCB-4FB8-B7B0-DCA308956AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{733F275A-3F43-48A4-84BB-85416332EB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733F275A-3F43-48A4-84BB-85416332EB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733F275A-3F43-48A4-84BB-85416332EB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733F275A-3F43-48A4-84BB-85416332EB26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {295F513A-C332-4EB1-A204-19789A4EACDF}
+	EndGlobalSection
+EndGlobal
